@@ -13,4 +13,4 @@ Customers
 Products
 Departments
 
-**All data sets were merged and cleaned
+** All data sets were merged and cleaned **
